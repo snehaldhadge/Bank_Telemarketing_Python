@@ -1,4 +1,4 @@
-##Bank Telemarketing Analysis
+## Bank Telemarketing Analysis
 
 # Introduction:
 This project analyzes the Portugese Bank Marketing Dataset. This dataset is about the direct phone call marketing campaigns,
